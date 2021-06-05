@@ -1,9 +1,8 @@
-> **TODO: UBAH "NAMA" DAN "NPM" MENJADI NAMA DAN NPM KALIAN PADA KEMUDIAN HAPUS BARIS INI!**
 # Tugas Praktikum Struktur Data 01
 
 > Materi: Perkenalan Praktikum Struktur Data 2021  
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Adnan Rafiyansyah Majid - 140810200029
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
